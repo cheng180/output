@@ -193,11 +193,104 @@
 	
 	2.对应文件夹下创建git仓库，见图\ref{fig:example14}
 	
+		\begin{figure}[h]  
+		\centering
+		\includegraphics[width=1\textwidth]{2.png}
+		\caption{实例2：创建}
+		\label{fig:example14}
+	\end{figure}
+	
+	3.git status 查看当前文件状态，见图\ref{fig:example15}
+	
+		\begin{figure}[h]  
+		\centering
+		\includegraphics[width=1\textwidth]{3.png}
+		\caption{实例3：查看状态}
+		\label{fig:example15}
+		\end{figure}
+	
+	\newpage
+	
+	4.远程连接  git remote,见图\ref{fig:example16}
+	
+		\begin{figure}[h]  
+		\centering
+		\includegraphics[width=1\textwidth]{4.png}
+		\caption{实例4：远程连接}
+		\label{fig:example16}
+	\end{figure}
+	
+	5.git add添加当前目录所有的文件，见图\ref{fig:example17}
+	
+		\begin{figure}[h]  
+		\centering
+		\includegraphics[width=1\textwidth]{5.png}
+		\caption{实例5：git add .}
+		\label{fig:example17}
+	\end{figure}
+	
+	6.git commit 第一次提交，见图\ref{fig:example18}
+	
+		\begin{figure}[h]  
+		\centering
+		\includegraphics[width=1\textwidth]{6.png}
+		\caption{实例6：git commit}
+		\label{fig:example18}
+	\end{figure}
+	
+	\newpage
+	
+	7.git push链接到远程仓库，见图\ref{fig:example19}
+	
+		\begin{figure}[h]  
+		\centering
+		\includegraphics[width=1\textwidth]{7.png}
+		\caption{实例7：git push}
+		\label{fig:example19}
+	\end{figure}
+	
+	8.git add 添加readme，见图\ref{fig:example20}
+	
+		\begin{figure}[h]  
+		\centering
+		\includegraphics[width=1\textwidth]{8.png}
+		\caption{实例8：git add}
+		\label{fig:example20}
+	\end{figure}
+	
+	\newpage
+	
+	9.git log 查看记录，见图\ref{fig:example21}
+	
+		\begin{figure}[h]  
+		\centering
+		\includegraphics[width=1\textwidth]{9.png}
+		\caption{实例9：git log}
+		\label{fig:example21}
+	\end{figure}
+	
+	\newpage
+	
+	10.重提交所有修改，见图\ref{fig:example22}
+	
+		\begin{figure}[h]  
+		\centering
+		\includegraphics[width=1\textwidth]{10.png}
+		\caption{实例10：重提交}
+		\label{fig:example22}
+	\end{figure}
+	
 	\newpage
 	\section{实验总结和个人心得}
 	\subsection{实验中遇到的困难和问题}
-	主要是安装latex相关编译器和ide的时候遇到的问题
-	\newpage
+	主要是安装latex相关编译器和ide的时候遇到的问题,前面提到过的主要是texlive安装太过于缓慢，还有编译器的选择，本来是用sublime，但是没找到有效破解办法，https://hexed.it/在这里修改相关文件，但是都已经失效了。最后选择了texstudio。
+	
+	第二个问题就是怎么设置成黑体字体，额，教程上的试过但是老是显示缺少包，最后直接手动在texstudio里面编译器配置里面把字体改成了黑体
+	
+	第三个问题就是给个人报告添加背景的问题，一开始用的是background包，结果图片是倾斜的，尝试过手动设置坐标，和代码设置坐标旋转，都没用，查询得知这个和pdf的坐标系有关系，具体可能是background包不太稳定，最后换了别的包eso-pic和tikz就可以了，然后注意调节透明度让字体可见。
+	
 	\subsection{个人心得}
+	
+	感觉不如word或者markdown好用，但是是新的尝试。
 	
 \end{document}

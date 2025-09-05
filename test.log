@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.8.29)  4 SEP 2025 23:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.8.29)  5 SEP 2025 09:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -886,56 +886,144 @@ File: 1.png Graphic file (type png)
 <use 1.png>
 Package pdftex.def Info: 1.png  used on input line 189.
 (pdftex.def)             Requested size: 345.0pt x 81.715pt.
+<2.png, id=209, 523.9575pt x 45.92157pt>
+File: 2.png Graphic file (type png)
+<use 2.png>
+Package pdftex.def Info: 2.png  used on input line 198.
+(pdftex.def)             Requested size: 345.0pt x 30.23755pt.
+<3.png, id=210, 526.96875pt x 151.3153pt>
+File: 3.png Graphic file (type png)
+<use 3.png>
+Package pdftex.def Info: 3.png  used on input line 207.
+(pdftex.def)             Requested size: 345.0pt x 99.06952pt.
 
 
-LaTeX Warning: Reference `fig:example14' on page 9 undefined on input line 194.
+LaTeX Warning: `h' float specifier changed to `ht'.
 
+
+
+File: bk.jpg Graphic file (type jpg)
+<use bk.jpg>
+Package pdftex.def Info: bk.jpg  used on input line 212.
+(pdftex.def)             Requested size: 614.30893pt x 794.98949pt.
+[9 <./1.png> <./2.png>]
+<4.png, id=214, 462.97969pt x 35.38219pt>
+File: 4.png Graphic file (type png)
+<use 4.png>
+Package pdftex.def Info: 4.png  used on input line 218.
+(pdftex.def)             Requested size: 345.0pt x 26.36597pt.
+<5.png, id=215, 734.745pt x 73.77562pt>
+File: 5.png Graphic file (type png)
+<use 5.png>
+Package pdftex.def Info: 5.png  used on input line 227.
+(pdftex.def)             Requested size: 345.0pt x 34.64189pt.
+<6.png, id=216, 563.10374pt x 329.73187pt>
+File: 6.png Graphic file (type png)
+<use 6.png>
+Package pdftex.def Info: 6.png  used on input line 236.
+(pdftex.def)             Requested size: 345.0pt x 202.02164pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 
 
 File: bk.jpg Graphic file (type jpg)
 <use bk.jpg>
-Package pdftex.def Info: bk.jpg  used on input line 196.
+Package pdftex.def Info: bk.jpg  used on input line 241.
 (pdftex.def)             Requested size: 614.30893pt x 794.98949pt.
-[9 <./1.png>]
+[10 <./3.png> <./4.png> <./5.png>]
+<7.png, id=221, 535.2497pt x 151.3153pt>
+File: 7.png Graphic file (type png)
+<use 7.png>
+Package pdftex.def Info: 7.png  used on input line 247.
+(pdftex.def)             Requested size: 345.0pt x 97.53642pt.
+<8.png, id=222, 514.17094pt x 382.42876pt>
+File: 8.png Graphic file (type png)
+<use 8.png>
+Package pdftex.def Info: 8.png  used on input line 256.
+(pdftex.def)             Requested size: 345.0pt x 256.60522pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
 
 File: bk.jpg Graphic file (type jpg)
 <use bk.jpg>
-Package pdftex.def Info: bk.jpg  used on input line 200.
+Package pdftex.def Info: bk.jpg  used on input line 261.
 (pdftex.def)             Requested size: 614.30893pt x 794.98949pt.
-[10]
+[11 <./6.png> <./7.png>]
+<9.png, id=227, 574.39594pt x 179.92218pt>
+File: 9.png Graphic file (type png)
+<use 9.png>
+Package pdftex.def Info: 9.png  used on input line 267.
+(pdftex.def)             Requested size: 345.0pt x 108.06944pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
 
 File: bk.jpg Graphic file (type jpg)
 <use bk.jpg>
-Package pdftex.def Info: bk.jpg  used on input line 203.
+Package pdftex.def Info: bk.jpg  used on input line 272.
 (pdftex.def)             Requested size: 614.30893pt x 794.98949pt.
-[11] (./test.aux)
+[12 <./8.png>]
+<10.png, id=232, 495.35063pt x 310.91156pt>
+File: 10.png Graphic file (type png)
+<use 10.png>
+Package pdftex.def Info: 10.png  used on input line 278.
+(pdftex.def)             Requested size: 345.0pt x 216.5407pt.
+
+
+File: bk.jpg Graphic file (type jpg)
+<use bk.jpg>
+Package pdftex.def Info: bk.jpg  used on input line 283.
+(pdftex.def)             Requested size: 614.30893pt x 794.98949pt.
+[13 <./9.png> <./10.png>]
+Overfull \hbox (17.53676pt too wide) in paragraph at lines 290--291
+[]\C70/rm/m/n/10.53937/7b , \C70/rm/m/n/10.53937/4e 	 * \C70/rm/m/n/10.53937/95
+ î \C70/rm/m/n/10.53937/98 ˜ \C70/rm/m/n/10.53937/5c 1 \C70/rm/m/n/10.53937/66 
+/ \C70/rm/m/n/10.53937/7e Ù \C70/rm/m/n/10.53937/4e * º \C70/rm/m/n/10.53937/62
+ ¥ \C70/rm/m/n/10.53937/54 J \C70/rm/m/n/10.53937/6d û \C70/rm/m/n/10.53937/52 
+  \C70/rm/m/n/10.53937/80 Ì \C70/rm/m/n/10.53937/66 o \C70/rm/m/n/10.53937/76 „
+ \C70/rm/m/n/10.53937/95 î \C70/rm/m/n/10.53937/98 ˜|\C70/rm/m/n/10.53937/ff ^^
+L| \C70/rm/m/n/10.53937/4e ^^@ \C70/rm/m/n/10.53937/5f ^^@ \C70/rm/m/n/10.53937
+/59 Ë \C70/rm/m/n/10.53937/75 ( \C70/rm/m/n/10.53937/76 „ \C70/rm/m/n/10.53937/
+66 /\OT1/cmr/m/n/10.53937 background\C70/rm/m/n/10.53937/53 ^^E|\C70/rm/m/n/10.
+53937/ff ^^L|
+ []
+
+
+
+File: bk.jpg Graphic file (type jpg)
+<use bk.jpg>
+Package pdftex.def Info: bk.jpg  used on input line 296.
+(pdftex.def)             Requested size: 614.30893pt x 794.98949pt.
+[14] (./test.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2022/07/14>
  ***********
-
-
-LaTeX Warning: There were undefined references.
-
  ) 
 Here is how much of TeX's memory you used:
- 17742 strings out of 473190
- 360884 string characters out of 5719979
- 710483 words of memory out of 5000000
- 40463 multiletter control sequences out of 15000+600000
- 602176 words of font info for 191 fonts, out of 8000000 for 9000
+ 17867 strings out of 473190
+ 362758 string characters out of 5719979
+ 710831 words of memory out of 5000000
+ 40584 multiletter control sequences out of 15000+600000
+ 602716 words of font info for 193 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  88i,14n,92p,710b,684s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/s
+<c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/s
 imhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows
-/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:
-/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun
-.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Font
-s/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Wind
-ows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc>
-<c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/sim
-sun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/F
+/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:
+/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei
+.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Font
+s/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Wind
+ows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc>
+<c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/sim
+hei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/F
 onts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/W
 indows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.t
 tc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/
@@ -947,29 +1035,30 @@ ts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Win
 dows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc
 ><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/si
 msun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/
-Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/
-Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.
+Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/
+Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.
 ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts
 /simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windo
 ws/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><
 c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/sims
 un.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fo
-nts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Wi
-ndows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.tt
+nts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Windows/Fonts/simsun.ttc><c:/Wi
+ndows/Fonts/simsun.ttc><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.tt
 f><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/s
 imhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows
 /Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:
 /Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei
 .ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Font
 s/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Wind
-ows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><d:/texlive/2025/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmbx10.pfb><d:/texlive/2025/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmbx12.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmr10.pfb>
-Output written on test.pdf (12 pages, 4564816 bytes).
+ows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf><c:/Windows/Fonts/simhei.ttf>
+<c:/Windows/Fonts/simhei.ttf><d:/texlive/2025/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmbx10.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmbx12.pfb><d:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+>
+Output written on test.pdf (15 pages, 4709052 bytes).
 PDF statistics:
- 532 PDF objects out of 1000 (max. 8388607)
- 332 compressed objects within 4 object streams
+ 560 PDF objects out of 1000 (max. 8388607)
+ 345 compressed objects within 4 object streams
  0 named destinations out of 1000 (max. 500000)
- 335 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 384 words of extra memory for PDF output out of 10000 (max. 10000000)
 

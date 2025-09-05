@@ -6,6 +6,6 @@
 \contentsline {section}{\numberline {3}git的相关工具使用和配置}{9}{}%
 \contentsline {subsection}{\numberline {3.1}git配置}{9}{}%
 \contentsline {subsection}{\numberline {3.2}git实例书写和语法}{9}{}%
-\contentsline {section}{\numberline {4}实验总结和个人心得}{10}{}%
-\contentsline {subsection}{\numberline {4.1}实验中遇到的困难和问题}{10}{}%
-\contentsline {subsection}{\numberline {4.2}个人心得}{11}{}%
+\contentsline {section}{\numberline {4}实验总结和个人心得}{14}{}%
+\contentsline {subsection}{\numberline {4.1}实验中遇到的困难和问题}{14}{}%
+\contentsline {subsection}{\numberline {4.2}个人心得}{14}{}%
