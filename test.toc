@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1}基本实验内容介绍}{1}{}%
+\contentsline {section}{\numberline {2}latex相关工具使用和配置}{2}{}%
+\contentsline {subsection}{\numberline {2.1}配置与安装}{2}{}%
+\contentsline {subsection}{\numberline {2.2}实例书写和语法学习}{3}{}%
+\contentsline {subsection}{\numberline {2.3}latex的documentclass的区分和目录等显示效果}{8}{}%
+\contentsline {section}{\numberline {3}git的相关工具使用和配置}{9}{}%
+\contentsline {subsection}{\numberline {3.1}git配置}{9}{}%
+\contentsline {subsection}{\numberline {3.2}git实例书写和语法}{9}{}%
+\contentsline {section}{\numberline {4}实验总结和个人心得}{10}{}%
+\contentsline {subsection}{\numberline {4.1}实验中遇到的困难和问题}{10}{}%
+\contentsline {subsection}{\numberline {4.2}个人心得}{11}{}%
